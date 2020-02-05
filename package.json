@@ -1,10 +1,17 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-starter-builton",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A simple starter to get up and developing quickly with Gatsby and BuiltOn",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Nicolas Bonduel <nicolas@builton.dev>",
+  "contributors": [
+    {
+      "name": "Kyle Mathews",
+      "email": "mathews.kyle@gmail.com"
+    }
+  ],
   "dependencies": {
+    "@builton/gatsby-source-builton": "git+ssh://git@github.com/BuiltonDev/gatsby-source-builton.git",
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-manifest": "^2.2.39",
@@ -22,7 +29,9 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "builton",
+    "starter"
   ],
   "license": "MIT",
   "scripts": {
