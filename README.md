@@ -21,10 +21,10 @@ This project is a boilerplate with a minimal base for building advanced GatsbyJS
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    Use the Gatsby CLI to create a new site, specifying the BuiltOn starter.
 
     ```shell
-    # create a new Gatsby site using the default starter
+    # create a new Gatsby site using the BuiltOn starter
     gatsby new my-builton-website https://github.com/builtondev/gatsby-starter-builton
     ```
 
