@@ -11,7 +11,7 @@
     }
   ],
   "dependencies": {
-    "@builton/gatsby-source-builton": "git+ssh://git@github.com/BuiltonDev/gatsby-source-builton.git",
+    "@builton/gatsby-source-builton": "^0.1.0",
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-manifest": "^2.2.39",
