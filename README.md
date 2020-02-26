@@ -15,7 +15,7 @@
 
 This is an e-commerce website starter skeleton for Gatsby v2 using BuiltOn as source.
 
-This project is a boilerplate with a minimal base for building advanced GatsbyJS and BuiltOn powered website.
+This project is a boilerplate with a minimal base for building advanced GatsbyJS and BuiltOn powered websites.
 
 ## 🚀 Quick start
 
